@@ -1,5 +1,12 @@
 Hi, I'm a git file
 Second
+<<<<<<< Updated upstream
 new1
 new2
+=======
+test
+test1
+test2
+test3
+>>>>>>> Stashed changes
 
