@@ -1,5 +1,6 @@
 Hi, I'm a git file
 Second
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 new1
 new2
@@ -10,3 +11,5 @@ test2
 test3
 >>>>>>> Stashed changes
 
+=======
+>>>>>>> parent of dbcc069... test
